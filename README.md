@@ -1,4 +1,4 @@
 # **Railway Management System**
 ---
-Made as a project for CBSE AISSCE Practical Assessment.
+Made as a personal project.
 ---
